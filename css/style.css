@@ -55,11 +55,11 @@ body {
 }
 
 .toast.info {
-  color: #31c8e2;
+  color: #09a9c5;
 }
 
 .toast.success {
-  color: #54e231;
+  color: #2ab600;
 }
 
 .toast.error {
